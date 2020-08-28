@@ -1,0 +1,2759 @@
+{
+    "ot1l": {        
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "",
+        "UNTEN": "vk1r",
+        "RECHTS": "os1",
+        "LINKS": "ok1d"
+        },
+    "ot1d": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "ok1d",
+        "UNTEN": "os1",
+        "RECHTS": "",
+        "LINKS": "vk1r"                
+        },    
+    "ot1u": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "os1",
+        "UNTEN": "ok1d" ,
+        "RECHTS": "vk1r",
+        "LINKS": ""                
+        },        
+    "ot2l": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+        "OBEN": "ot6u",
+        "UNTEN": "ok2d",
+        "RECHTS": "ot4u",
+        "LINKS": ""                
+        },    
+    "ot2d": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "",
+        "UNTEN": "ot4u",
+        "RECHTS": "ot6u",
+        "LINKS": "ok2d"            
+        },    
+    "ot2r": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "ok2d",
+        "UNTEN": "ot6u",
+        "RECHTS": "",
+        "LINKS": "ot4u"                
+        },       
+    "ot3l": {                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",         
+        "OBEN": "ot4l",
+        "UNTEN": "os2",
+        "RECHTS": "vk2u",
+        "LINKS": ""                
+        },    
+    "ot3d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk2u",
+        "RECHTS": "ot4l",
+        "LINKS": "os2"
+                
+        },
+    
+    "ot3r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "os2",
+        "UNTEN": "ot4l",
+        "RECHTS": "vk2u",
+        "LINKS": ""
+                
+        },
+    
+    
+    "ot4l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ot3l",
+        "RECHTS": "ot5u",
+        "LINKS": "ot2d"
+                
+        },
+    
+    "ot4d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot2d",
+        "UNTEN": "ot5u",
+        "RECHTS": "",
+        "LINKS": "ot3l"
+                
+        },
+    
+    "ot4u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot5u",
+        "UNTEN": "ot2d",
+        "RECHTS": "ot3l",
+        "LINKS": ""
+                
+        },
+    
+    
+    "ot5d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot4d",
+        "UNTEN": "vt3u",
+        "RECHTS": "ot6l",
+        "LINKS": ""
+                
+        },
+    
+    "ot5r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ot6l",
+        "RECHTS": "ot4d",
+        "LINKS": "vt3u"
+                
+        },
+    
+    "ot5u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt3u",
+        "UNTEN": "ot4d",
+        "RECHTS": "",
+        "LINKS": "ot6l"
+                
+        },
+    
+    
+    "ot6l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ot5r",
+        "RECHTS": "gt1u",
+        "LINKS": "ot2r"
+                
+        },
+    
+    "ot6d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot2r",
+        "UNTEN": "gt1u",
+        "RECHTS": "",
+        "LINKS": "ot5r"
+                
+        },
+
+    "ot6u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt1u",
+        "UNTEN": "ot2r",
+        "RECHTS": "ot5r",
+        "LINKS": ""
+                
+        },
+        
+    "ot7l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "oe1r",
+        "UNTEN": "vt2r",
+        "RECHTS": "ok1u",
+        "LINKS": ""
+                
+        },
+    
+    "ot7d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ok1u",
+        "RECHTS": "oe1r",
+        "LINKS": "vt2r"
+                
+        },
+    
+    "ot7r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt2r",
+        "UNTEN": "oe1r",
+        "RECHTS": "",
+        "LINKS": "ok1u"
+                
+        },
+    
+    "ok1l": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ok2u",
+        "UNTEN": "vt1r",
+        "RECHTS": "ot1u",
+        "LINKS": "ot7d"
+                
+        },
+    
+    "ok1d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot7d",
+        "UNTEN": "ot1u",
+        "RECHTS": "ok2u",
+        "LINKS": "vt1r"
+                
+        },
+    
+    "ok1r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt1r",
+        "UNTEN": "ok2u",
+        "RECHTS": "ot7d",
+        "LINKS": "ot1u"
+                
+        },
+    
+    "ok1u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot1u",
+        "UNTEN": "ot7d",
+        "RECHTS": "vt1r",
+        "LINKS": "ok2u"
+                
+        },
+    
+    "ok2l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "os5",
+        "UNTEN": "os3",
+        "RECHTS": "ot2l",
+        "LINKS": "ok1r"
+                
+        },
+    
+    "ok2d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ok1r",
+        "UNTEN": "ot2l",
+        "RECHTS": "os5",
+        "LINKS": "os3"
+                
+        },
+    
+    "ok2r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "os3",
+        "UNTEN": "os5",
+        "RECHTS": "ok1r",
+        "LINKS": "ot2l"
+                
+        },
+    
+    "ok2u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot2l",
+        "UNTEN": "ok1r",
+        "RECHTS": "os3",
+        "LINKS": "os5"
+                
+        },
+    
+    "os1": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ot1d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "os2": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ot3l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "os3": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ok2l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "os4": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt8l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "os5": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ok2r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "oe1r": {
+                
+        "INFO": "Eingang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "or1",
+        "UNTEN": "oe1l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "oe1l": {
+                
+        "INFO": "Ausgang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot7r",
+        "UNTEN": "oe1r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "or1": {
+                
+        "INFO": "Grab des toten Königs",
+        "BESCHREIBUNG": "Dies ist das neue Zuhause des untoten König, dem du einst gedient hast. ", 
+        "OBEN": "",
+        "UNTEN":"oe1l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "gt1l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gt7r",
+        "RECHTS": "gt10u",
+        "LINKS": "ot6d"
+                
+        },
+    
+    "gt1d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot6d",
+        "UNTEN": "gt10u",
+        "RECHTS": "",
+        "LINKS": "gt7r"
+                
+        },
+    
+    "gt1u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt10u",
+        "UNTEN": "ot6d" ,
+        "RECHTS": "gt7r",
+        "LINKS": ""
+                
+        },
+    
+    "gt2l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk3r",
+        "RECHTS": "gt3r",
+        "LINKS": "gt10d"
+                
+        },
+    
+    "gt2d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt10d",
+        "UNTEN": "gt3r",
+        "RECHTS": "",
+        "LINKS": "gk3r"
+                
+        },
+    
+    "gt2u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt3r",
+        "UNTEN": "gt10d",
+        "RECHTS": "gk3r",
+        "LINKS": ""
+                
+        },
+    
+    "gt3l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt2d",
+        "UNTEN": "gt4r",
+        "RECHTS": "",
+        "LINKS": "gk3d"
+                
+        },
+    
+    "gt3r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt4r",
+        "UNTEN": "gt2d",
+        "RECHTS": "gk3d",
+        "LINKS": ""
+                
+        },
+    
+    "gt3u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk3d",
+        "RECHTS": "gt4r",
+        "LINKS": "gt2d"
+                
+        },
+    
+    "gt4l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt3l",
+        "UNTEN": "gt5r",
+        "RECHTS": "",
+        "LINKS": "gt9d"
+                
+        },
+    
+    "gt4r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt5r",
+        "UNTEN": "gt3l",
+        "RECHTS": "gt9d",
+        "LINKS": ""
+                
+        },
+    
+    "gt4u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gt9d",
+        "RECHTS": "gt5r",
+        "LINKS": "gt3l"
+                
+        },
+    
+    "gt5l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt4l",
+        "UNTEN": "bt10d",
+        "RECHTS": "",
+        "LINKS": "gk1d"
+                
+        },
+    
+    "gt5r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt10d",
+        "UNTEN": "gt4l",
+        "RECHTS": "gk1d",
+        "LINKS": ""
+                
+        },
+    
+    "gt5u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk1d",
+        "RECHTS": "bt10d",
+        "LINKS": "gt4l"
+                
+        },
+    
+    "gt6l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk2u",
+        "RECHTS": "gk3u",
+        "LINKS": "gt8d"
+                
+        },
+    
+    "gt6d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt8d",
+        "UNTEN": "gk3u",
+        "RECHTS": "",
+        "LINKS": "gk2u"
+                
+        },
+
+    "gt6u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gk3u",
+        "UNTEN": "gt7d",
+        "RECHTS": "gk2u",
+        "LINKS": ""
+                
+        },
+    
+    "gt7d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt3d",
+        "UNTEN": "gt8u",
+        "RECHTS": "gt1l",
+        "LINKS": ""
+                
+        },
+    
+    "gt7r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gt1l",
+        "RECHTS": "vt3d",
+        "LINKS": "gt8u"
+                
+        },
+    
+    "gt7u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt8u",
+        "UNTEN": "vt3d",
+        "RECHTS": "",
+        "LINKS": "gt1l"
+                
+        },
+
+    "gt8l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vt4r",
+        "RECHTS": "gt6u",
+        "LINKS": "gt7d"
+                
+        },
+
+    "gt8d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt7d",
+        "UNTEN": "gt6u",
+        "RECHTS": "",
+        "LINKS": "vt4r"
+                
+        },
+
+    "gt8u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt6u",
+        "UNTEN": "gt7d",
+        "RECHTS": "vt4r",
+        "LINKS": ""
+                
+        },
+
+    "gt9l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk2r",
+        "RECHTS": "gt4u",
+        "LINKS": "gk3l"
+                
+        },
+
+    "gt9u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt4u",
+        "UNTEN": "gk3l",
+        "RECHTS": "gk2r",
+        "LINKS": ""
+                
+        },
+
+    "gt9d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gk3l",
+        "UNTEN": "gt4u",
+        "RECHTS": "",
+        "LINKS": "gk2r"
+                
+        },
+
+    "gt10l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ge1l",
+        "RECHTS": "gt2u",
+        "LINKS": "gt1d"
+                
+        },
+
+    "gt10d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt1d",
+        "UNTEN": "gt2u",
+        "RECHTS": "",
+        "LINKS": "ge1l"
+                
+        },
+
+    "gt10u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt2u",
+        "UNTEN": "gt1d",
+        "RECHTS": "ge1l",
+        "LINKS": ""
+                
+        },
+    
+    "gk1l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gs1",
+        "UNTEN": "bs5",
+        "RECHTS": "gt5u",
+        "LINKS": "gk2d"
+                
+        },
+    
+    "gk1d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gk2d",
+        "UNTEN": "gt5u",
+        "RECHTS": "gs1",
+        "LINKS": "bs5"
+                
+        },
+    
+    "gk1r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bs5",
+        "UNTEN": "gs1",
+        "RECHTS": "gk2d",
+        "LINKS": "gt5u"
+                
+        },
+    
+    "gk1u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt5u",
+        "UNTEN": "gk2d",
+        "RECHTS": "bs5",
+        "LINKS": "gs1"
+                
+        },
+    
+    "gk2l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt9l",
+        "UNTEN": "bt10r",
+        "RECHTS": "gk1u",
+        "LINKS": "gt6l"
+                
+        },
+    
+    "gk2d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt6l",
+        "UNTEN": "gk1u",
+        "RECHTS": "gt9l",
+        "LINKS": "bt10r"
+                
+        },
+    
+    "gk2r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt10r",
+        "UNTEN": "gt9l",
+        "RECHTS": "gt6l",
+        "LINKS": "gk1u"
+                
+        },
+    
+    "gk2u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gk1u",
+        "UNTEN": "gt6l",
+        "RECHTS": "bt10r",
+        "LINKS": "gt9l"
+                
+        },
+    
+    "gk3l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt2l",
+        "UNTEN": "gt9u",
+        "RECHTS": "gt3u",
+        "LINKS": "gt6d"
+                
+        },
+    
+    "gk3d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt6d",
+        "UNTEN": "gt3u",
+        "RECHTS": "gt2l",
+        "LINKS": "gt9u"
+                
+        },
+    
+    "gk3r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt9u",
+        "UNTEN": "gt2l",
+        "RECHTS": "gt6d",
+        "LINKS": "gt3u"
+                
+        },
+    
+    "gk3u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt3u",
+        "UNTEN": "gt6d",
+        "RECHTS": "gt9u",
+        "LINKS": "gt2l"
+                
+        },
+    
+    "gs1": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk1r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ge1l": {
+                
+        "INFO": "Eingang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gr1",
+        "UNTEN": "ge1r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    
+    "ge1r": {
+                
+        "INFO": "Ausgang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt10l",
+        "UNTEN": "ge1l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "gr1": {
+                
+        "INFO": "Raum der Verdammnis",
+        "BESCHREIBUNG": "Der Raum, der dich leiden lässt.",
+        
+        "OBEN": "",
+        "UNTEN":"ge1l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "bt1l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt1d",
+        "RECHTS": "bt11l",
+        "LINKS": "bk1d"
+                
+        },
+    
+    "bt1d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk1d",
+        "UNTEN": "bt11l",
+        "RECHTS": "",
+        "LINKS": "pt1d"
+                
+        },
+    
+    "bt1u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt11l",
+        "UNTEN": "bk1d" ,
+        "RECHTS": "pt1d",
+        "LINKS": ""
+                
+        },
+    
+    "bt2l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt3l",
+        "UNTEN": "bk1r",
+        "RECHTS": "bt6u",
+        "LINKS": ""
+                
+        },
+    
+    "bt2d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt6u",
+        "RECHTS": "bt3l",
+        "LINKS": "bk1r"
+                
+        },
+    
+    "bt2r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk1r",
+        "UNTEN": "bt3l",
+        "RECHTS": "",
+        "LINKS": "bt6u"
+                
+        },
+    
+    "bt3l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt4l",
+        "UNTEN": "bt2r",
+        "RECHTS": "",
+        "LINKS": "vk4d"
+                
+        },
+    
+    "bt3r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt2r",
+        "UNTEN": "bt4l",
+        "RECHTS": "vk4d",
+        "LINKS": ""
+                
+        },
+    
+    "bt3u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk4d",
+        "RECHTS": "bt2r",
+        "LINKS": "bt4l"
+                
+        },
+    
+    "bt4l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt5l",
+        "UNTEN": "bt3r",
+        "RECHTS": "bs4",
+        "LINKS": ""
+                
+        },
+    
+    "bt4d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bs4",
+        "RECHTS": "bt5l",
+        "LINKS": "bt3r"
+                
+        },
+    
+    "bt4r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt3r",
+        "UNTEN": "bt5l",
+        "RECHTS": "",
+        "LINKS": "bs4"
+                
+        },
+    
+    "bt5l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vk3l",
+        "UNTEN": "bt4r",
+        "RECHTS": "bt6r",
+        "LINKS": ""
+                
+        },
+    
+    "bt5d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt6r",
+        "RECHTS": "vk3l",
+        "LINKS": "bt4r"
+                
+        },
+    
+    "bt5r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt4r",
+        "UNTEN": "vk3l",
+        "RECHTS": "",
+        "LINKS": "bt6r"
+                
+        },
+    
+    "bt6d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt2d",
+        "UNTEN": "bt11u",
+        "RECHTS": "bt5d",
+        "LINKS": ""
+                
+        },
+    
+    "bt6r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt5d",
+        "RECHTS": "bt2d",
+        "LINKS": "bt11u"
+                
+        },
+
+    "bt6u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt11u",
+        "UNTEN": "bt2d",
+        "RECHTS": "",
+        "LINKS": "bt5d"
+                
+        },
+    
+    "bt7l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt9l",
+        "UNTEN": "bk2r",
+        "RECHTS": "bt8u",
+        "LINKS": ""
+                
+        },
+    
+    "bt7d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt8u",
+        "RECHTS": "bt9l",
+        "LINKS": "bk2r"
+                
+        },
+    
+    "bt7r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk2r",
+        "UNTEN": "bt9l",
+        "RECHTS": "",
+        "LINKS": "bt8u"
+                
+        },
+
+    "bt8l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bs6",
+        "UNTEN": "bt12r",
+        "RECHTS": "",
+        "LINKS": "b57d"
+                
+        },
+
+    "bt8r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt12r",
+        "UNTEN": "bs6",
+        "RECHTS": "bt7d",
+        "LINKS": ""
+                
+        },
+
+    "bt8u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt7d",
+        "RECHTS": "bt12r",
+        "LINKS": "bs6"
+                
+        },
+
+    "bt9l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt10l",
+        "UNTEN": "bt7r",
+        "RECHTS": "bs1",
+        "LINKS": ""
+                
+        },
+
+    "bt9d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bs1",
+        "RECHTS": "bt10l",
+        "LINKS": "bt7l"
+                
+        },
+
+    "bt9r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt7l",
+        "UNTEN": "bt10r",
+        "RECHTS": "",
+        "LINKS": "bs1"
+                
+        },
+		
+    "bt10l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gk2l",
+        "UNTEN": "bt9r",
+        "RECHTS": "gt5l",
+        "LINKS": ""
+                
+        },
+
+    "bt10d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gt5l",
+        "RECHTS": "gk2l",
+        "LINKS": "bt9r"
+                
+        },
+
+    "bt10r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt9r",
+        "UNTEN": "gk2l",
+        "RECHTS": "",
+        "LINKS": "gt5l"
+                
+        },
+
+    "bt11l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt4l",
+        "UNTEN": "bt1d",
+        "RECHTS": "",
+        "LINKS": "bt6d"
+                
+        },
+
+    "bt11r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt1d",
+        "UNTEN": "vt4l",
+        "RECHTS": "bt6d",
+        "LINKS": ""
+                
+        },
+
+    "bt11u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt6d",
+        "RECHTS": "bt1d",
+        "LINKS": "vt4l"
+                
+        },
+
+    "bt12l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt8l",
+        "UNTEN": "bk2d",
+        "RECHTS": "",
+        "LINKS": "be1u"
+                
+        },
+
+    "bt12r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk2d",
+        "UNTEN": "bt8l",
+        "RECHTS": "be1u",
+        "LINKS": ""
+                
+        },
+
+    "bt12u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "be1u",
+        "RECHTS": "bk2d",
+        "LINKS": "bt8l"
+                
+        },
+    
+    "bk1l": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt2l",
+        "UNTEN": "pt2d",
+        "RECHTS": "bt1u",
+        "LINKS": "vt5d"
+                
+        },
+    
+    "bk1d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt5d",
+        "UNTEN": "bt1u",
+        "RECHTS": "bt2l",
+        "LINKS": "pt2d"
+                
+        },
+    
+    "bk1r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt2d",
+        "UNTEN": "bt2l",
+        "RECHTS": "vt5d",
+        "LINKS": "bt1u"
+                
+        },
+    
+    "bk1u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt1u",
+        "UNTEN": "vt5d",
+        "RECHTS": "pt2d",
+        "LINKS": "bt2l"
+                
+        },
+    
+    "bk2l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt7l",
+        "UNTEN": "bs3",
+        "RECHTS": "bt12l",
+        "LINKS": "bs2"
+                
+        },
+    
+    "bk2d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bs2",
+        "UNTEN": "bt12l",
+        "RECHTS": "bt7l",
+        "LINKS": "bs3"
+                
+        },
+    
+    "bk2r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bs3",
+        "UNTEN": "bt7l",
+        "RECHTS": "bs2",
+        "LINKS": "bt12l"
+                
+        },
+    
+    "bk2u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt12l",
+        "UNTEN": "bs2",
+        "RECHTS": "bs3",
+        "LINKS": "bt7l"
+                
+        },
+    
+    "bs1": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt9d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "bs2": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bk2u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "bs3": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bk2l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "bs4": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bs4d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "bs5": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "gk1l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "bs6": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "bt8r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "br1": {
+        
+        "INFO": "Eden",
+        "BESCHREIBUNG": "Das Paradies, wonach sich alle sehnen. ",
+         
+        "OBEN": "",
+        "UNTEN": "be1u",
+        "RECHTS": "",
+        "LINKS": ""
+        
+        },
+    
+    "be1d": {
+                
+        "INFO": "Ausgang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "be1u",
+        "UNTEN": "bt12u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "be1u": {
+                
+        "INFO": "Eingang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "br1",
+        "UNTEN": "be1u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "pt1d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt3l",
+        "UNTEN": "bt1l",
+        "RECHTS": "pk1l",
+        "LINKS": ""
+                
+        },
+    
+    "pt1r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk1l",
+        "RECHTS": "pt3l",
+        "LINKS": "bt1l"
+                
+        },
+    
+    "pt1u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt1l",
+        "UNTEN": "pt3l" ,
+        "RECHTS": "",
+        "LINKS": "pk1l"
+                
+        },
+    
+    "pt2d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk1d",
+        "UNTEN": "bk1l",
+        "RECHTS": "pk2l",
+        "LINKS": ""
+                
+        },
+    
+    "pt2r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk2l",
+        "RECHTS": "pk1d",
+        "LINKS": "bk1l"
+                
+        },
+    
+    "pt2u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk1l",
+        "UNTEN": "pk1d",
+        "RECHTS": "",
+        "LINKS": "pk2l"
+                
+        },
+    
+    "pt3l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt4l",
+        "UNTEN": "pt1u",
+        "RECHTS": "",
+        "LINKS": "pe1u"
+                
+        },
+    
+    "pt3r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt1u",
+        "UNTEN": "pt4l",
+        "RECHTS": "pe1u",
+        "LINKS": ""
+                
+        },
+    
+    "pt3u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pe1u",
+        "RECHTS": "pt1u",
+        "LINKS": "pt4l"
+                
+        },
+    
+    "pt4l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt3r",
+        "RECHTS": "pk3u",
+        "LINKS": "pt5l"
+                
+        },
+    
+    "pt4d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt5l",
+        "UNTEN": "pk3u",
+        "RECHTS": "",
+        "LINKS": "pt3r"
+                
+        },
+    
+    "pt4u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk3u",
+        "UNTEN": "pt5l",
+        "RECHTS": "pt3r",
+        "LINKS": ""
+                
+        },
+    
+    "pt5l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk5l",
+        "UNTEN": "pt4u",
+        "RECHTS": "",
+        "LINKS": "pt7d"
+                
+        },
+    
+    "pt5r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt4u",
+        "UNTEN": "pk5l",
+        "RECHTS": "pt7d",
+        "LINKS": ""
+                
+        },
+    
+    "pt5u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt67",
+        "RECHTS": "pt4u",
+        "LINKS": "pk5l"
+                
+        },
+    
+    "pt7l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt8l",
+        "UNTEN": "ps7",
+        "RECHTS": "pt5u",
+        "LINKS": ""
+                
+        },
+    
+    "pt7d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt5u",
+        "RECHTS": "pt8l",
+        "LINKS": "ps7"
+                
+        },
+    
+    "pt7r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps7",
+        "UNTEN": "pt8l",
+        "RECHTS": "",
+        "LINKS": "pt5u"
+                
+        },
+
+    "pt8l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "os4",
+        "UNTEN": "pt7r",
+        "RECHTS": "pk5u",
+        "LINKS": ""
+                
+        },
+
+    "pt8d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk5u",
+        "RECHTS": "os4",
+        "LINKS": "pt7r"
+                
+        },
+
+    "pt8r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt7r",
+        "UNTEN": "os4",
+        "RECHTS": "",
+        "LINKS": "pk5u"
+                
+        },
+
+    "pt9l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk4r",
+        "RECHTS": "ps4",
+        "LINKS": "pk5d"
+                
+        },
+
+    "pt9d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk5d",
+        "UNTEN": "ps4",
+        "RECHTS": "",
+        "LINKS": "pk4r"
+                
+        },
+
+    "pt9u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps4",
+        "UNTEN": "pk5d",
+        "RECHTS": "pk4r",
+        "LINKS": ""
+                
+        },
+
+    "pt10d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps1",
+        "UNTEN": "ps3",
+        "RECHTS": "vk1l",
+        "LINKS": ""
+                
+        },
+
+    "pt10r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk1l",
+        "RECHTS": "ps1",
+        "LINKS": "ps3"
+                
+        },
+
+    "pt10u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps3",
+        "UNTEN": "ps1",
+        "RECHTS": "",
+        "LINKS": "vk1l"
+                
+        },
+		
+    "pt11l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vk4u",
+        "UNTEN": "pk2r",
+        "RECHTS": "",
+        "LINKS": "pk4d"
+                
+        },
+
+    "pt11r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk2r",
+        "UNTEN": "vk4u",
+        "RECHTS": "pk4d",
+        "LINKS": ""
+                
+        },
+
+    "pt11u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk4d",
+        "RECHTS": "pk2r",
+        "LINKS": "vk4u"
+                
+        },
+    
+    "pk1l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk3l",
+        "UNTEN": "pt1r",
+        "RECHTS": "pt2u",
+        "LINKS": "ps6"
+                
+        },
+    
+    "pk1d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps6",
+        "UNTEN": "pt2u",
+        "RECHTS": "pk3l",
+        "LINKS": "pt1r"
+                
+        },
+    
+    "pk1r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt1r",
+        "UNTEN": "pk3l",
+        "RECHTS": "ps6",
+        "LINKS": "pt2u"
+                
+        },
+    
+    "pk1u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt2u",
+        "UNTEN": "ps6",
+        "RECHTS": "pt1r",
+        "LINKS": "pk3l"
+                
+        },
+    
+    "pk2l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt11l",
+        "UNTEN": "pt2r",
+        "RECHTS": "vt5u",
+        "LINKS": "pk3d"
+                
+        },
+    
+    "pk2d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk3d",
+        "UNTEN": "vt5u",
+        "RECHTS": "pt11l",
+        "LINKS": "pt2r"
+                
+        },
+    
+    "pk2r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt2r",
+        "UNTEN": "pt11l",
+        "RECHTS": "pk3d",
+        "LINKS": "vt5u"
+                
+        },
+    
+    "pk2u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt5u",
+        "UNTEN": "pk3d",
+        "RECHTS": "pt2r",
+        "LINKS": "pt11l"
+                
+        },
+    
+    "pk3l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk4l",
+        "UNTEN": "pk1r",
+        "RECHTS": "pk2u",
+        "LINKS": "pt4d"
+                
+        },
+    
+    "pk3d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt4d",
+        "UNTEN": "pk2u",
+        "RECHTS": "pk4l",
+        "LINKS": "pk1r"
+                
+        },
+    
+    "pk3r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk1r",
+        "UNTEN": "pk4l",
+        "RECHTS": "pt4d",
+        "LINKS": "pk2u"
+                
+        },
+    
+    "pk3u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk2u",
+        "UNTEN": "pt4d",
+        "RECHTS": "pk1r",
+        "LINKS": "pk4l"
+                
+        },
+    
+    "pk4l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt9l",
+        "UNTEN": "pk3r",
+        "RECHTS": "pt11u",
+        "LINKS": "ps5"
+                
+        },
+    
+    "pk4d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps5",
+        "UNTEN": "pt11u",
+        "RECHTS": "pt9l",
+        "LINKS": "pk3r"
+                
+        },
+    
+    "pk4r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk3r",
+        "UNTEN": "pt9l",
+        "RECHTS": "ps5",
+        "LINKS": "pt11u"
+                
+        },
+    
+    "pk4u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt11u",
+        "UNTEN": "ps5",
+        "RECHTS": "pk3r",
+        "LINKS": "pt9l"
+                
+        },
+    
+    "pk5l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps2",
+        "UNTEN": "pt5r",
+        "RECHTS": "pt9u",
+        "LINKS": "pt8d"
+                
+        },
+    
+    "pk5d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt8d",
+        "UNTEN": "pt9u",
+        "RECHTS": "ps2",
+        "LINKS": "pt5r"
+                
+        },
+    
+    "pk5r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt5r",
+        "UNTEN": "ps2",
+        "RECHTS": "pt8d",
+        "LINKS": "pt9u"
+                
+        },
+    
+    "pk5u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt9u",
+        "UNTEN": "pt8d",
+        "RECHTS": "pt5r",
+        "LINKS": "ps2"
+                
+        },
+    
+    "ps1": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt10u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ps2": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk5r",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "ps3": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt10d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "ps4": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt9d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ps5": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk4u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ps6": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pk1u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ps7": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "pt7l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "ps8": {
+                
+        "INFO": "Sackgasse",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vt2l",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "pe1d": {
+                
+        "INFO": "Ausgang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt3u",
+        "UNTEN": "pe1u",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+
+    "pe1u": {
+                
+        "INFO": "Eingang",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pr1",
+        "UNTEN": "pe1d",
+        "RECHTS": "",
+        "LINKS": ""
+                
+        },
+    
+    "pr1": {
+                
+        "INFO": "Kammer des Schreckens",
+        "BESCHREIBUNG": "Dies ist die Kammer, wovon niemand bisher jemals zurückgekehrt ist.",
+        "OBEN": "",
+        "UNTEN":"pe1d",
+        "RECHTS": "",
+        "LINKS": ""
+    },
+    
+    "vt1d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt2d",
+        "UNTEN": "vk1u",
+        "RECHTS": "ok1l",
+        "LINKS": ""
+                
+        },
+    
+    "vt1r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "ok1l",
+        "RECHTS": "vt2d",
+        "LINKS": "vk1u"
+                
+        },
+    
+    "vt1u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vk1u",
+        "UNTEN": "vt2d" ,
+        "RECHTS": "",
+        "LINKS": "ok1l"
+                
+        },
+    
+    "vt2l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot7l",
+        "UNTEN": "ps8",
+        "RECHTS": "vt1u",
+        "LINKS": ""
+                
+        },
+    
+    "vt2d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vt1u",
+        "RECHTS": "ot7l",
+        "LINKS": "ps8"
+                
+        },
+    
+    "vt2r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ps8",
+        "UNTEN": "ot7l",
+        "RECHTS": "",
+        "LINKS": "vt1u"
+                
+        },
+    
+    "vt3l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk2r",
+        "RECHTS": "gt7u",
+        "LINKS": "ot5d"
+                
+        },
+    
+    "vt3d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot5d",
+        "UNTEN": "gt7u",
+        "RECHTS": "",
+        "LINKS": "vk2r"
+                
+        },
+    
+    "vt3u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt7u",
+        "UNTEN": "ot5d",
+        "RECHTS": "vk2r",
+        "LINKS": ""
+                
+        },
+    
+    "vt4l": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "gt8l",
+        "UNTEN": "bt11r",
+        "RECHTS": "",
+        "LINKS": "vk3d"
+                
+        },
+    
+    "vt4r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt11r",
+        "UNTEN": "gt8l",
+        "RECHTS": "",
+        "LINKS": "vk3d"
+                
+        },
+    
+    "vt4u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk3d",
+        "RECHTS": "bt11r",
+        "LINKS": "gt8l"
+                
+        },
+    
+    "vt5d": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pk2d",
+        "UNTEN": "bk1u",
+        "RECHTS": "",
+        "LINKS": "vk4l"
+                
+        },
+    
+    "vt5r": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "",
+        "UNTEN": "vk4l",
+        "RECHTS": "pk2d",
+        "LINKS": "bk1u"
+                
+        },
+    
+    "vt5u": {
+                
+        "INFO": "T-Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bk1u",
+        "UNTEN": "pk2d",
+        "RECHTS": "",
+        "LINKS": "vk4l"
+                
+        },
+    
+    "vk1l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot1l",
+        "UNTEN": "pt10r",
+        "RECHTS": "vr1u",
+        "LINKS": "vt1d"
+                
+        },
+    
+    "vk1d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt1d",
+        "UNTEN": "vr1u",
+        "RECHTS": "ot1l",
+        "LINKS": "pt10r"
+                
+        },
+    
+    "vk1r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt10r",
+        "UNTEN": "ot1l",
+        "RECHTS": "vt1d",
+        "LINKS": "vr1u"
+                
+        },
+    
+    "vk1u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vr1u",
+        "UNTEN": "vt1d",
+        "RECHTS": "pt10r",
+        "LINKS": "ot1l"
+                
+        },
+    
+    "vk2l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt3l",
+        "UNTEN": "vr1r",
+        "RECHTS": "vk3r",
+        "LINKS": "ot3d"
+                
+        },
+    
+    "vk2d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "ot3d",
+        "UNTEN": "vk3r",
+        "RECHTS": "vt3l",
+        "LINKS": "vr1r"
+                
+        },
+    
+    "vk2r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vr1r",
+        "UNTEN": "vt3l",
+        "RECHTS": "ot3d",
+        "LINKS": "vk3r"
+                
+        },
+    
+    "vk2u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vk3r",
+        "UNTEN": "ot3d",
+        "RECHTS": "vr1r",
+        "LINKS": "vt3l"
+                
+        },
+    
+    "vk3l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vk2d",
+        "UNTEN": "bt5r",
+        "RECHTS": "vt4u",
+        "LINKS": "vr1d"
+                
+        },
+    
+    "vk3d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vr1d",
+        "UNTEN": "vt4u",
+        "RECHTS": "vk2d",
+        "LINKS": "bt5r"
+                
+        },
+    
+    "vk3r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt5r",
+        "UNTEN": "vk2d",
+        "RECHTS": "vr1d",
+        "LINKS": "vt4u"
+                
+        },
+    
+    "vk3u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt4u",
+        "UNTEN": "vr1d",
+        "RECHTS": "bt5r",
+        "LINKS": "vk2d"
+                
+        },
+    
+    "vk4l": {
+                
+        "INFO": "Kreuzung", 
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vr1l",
+        "UNTEN": "vt5r",
+        "RECHTS": "bt3u",
+        "LINKS": "pt11r"
+                
+        },
+    
+    "vk4d": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "pt11r",
+        "UNTEN": "bt3u",
+        "RECHTS": "vr1l",
+        "LINKS": "vt5r"
+                
+        },
+    
+    "vk4r": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "vt5r",
+        "UNTEN": "vr1l",
+        "RECHTS": "pt11r",
+        "LINKS": "bt3u"
+                
+        },
+    
+    "vk4u": {
+                
+        "INFO": "Kreuzung",
+        "BESCHREIBUNG": "",
+         
+        "OBEN": "bt3u",
+        "UNTEN": "pt11r",
+        "RECHTS": "vt5r",
+        "LINKS": "vr1l"
+                
+        },
+
+    "vr1l": {
+                
+        "INFO": "Anfangsraum", 
+        "BESCHREIBUNG": "Hier bist du aufgewacht.",
+         
+        "OBEN": "vk2l",
+        "UNTEN": "vk4r",
+        "RECHTS": "vk3u",
+        "LINKS": "vk1d"
+                
+        },
+    
+    "vr1d": {
+                
+        "INFO": "Anfangsraum",
+        "BESCHREIBUNG": "Hier bist du aufgewacht.",
+         
+        "OBEN": "vk1d",
+        "UNTEN": "vk3u",
+        "RECHTS": "vk2l",
+        "LINKS": "vk4r"
+                
+        },
+    
+    "vr1r": {
+                
+        "INFO": "Anfangsraum",
+        "BESCHREIBUNG": "Hier bist du aufgewacht.",
+         
+        "OBEN": "vk4r",
+        "UNTEN": "vk2l",
+        "RECHTS": "vk1d",
+        "LINKS": "vk3u"
+                
+        },
+    
+    "vr1u": {
+                
+        "INFO": "Anfangsraum",
+        "BESCHREIBUNG": "Hier bist du aufgewacht.",
+         
+        "OBEN": "vk3u",
+        "UNTEN": "vk1d",
+        "RECHTS": "vk4r",
+        "LINKS": "vk2l"
+                
+        }
+
+}

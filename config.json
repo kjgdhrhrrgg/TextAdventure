@@ -1,0 +1,30 @@
+{
+	"spieler": {
+		"hp": "1000",
+		"atk": "100",
+		"def": "100"
+	},
+	"character":{
+		"hp": "1000",
+		"atk": "150",
+		"def": "50"
+	},
+	"einfach":{
+		"hpschwierigkeit": "1",
+		"atkschwierigkeit": "1",
+		"defschwierigkeit": "1",
+		"angriffchance": "2"
+	},
+	"normal":{
+		"hpschwierigkeit": "1.25",
+		"atkschwierigkeit": "1.15",
+		"defschwierigkeit": "1.25",
+		"angriffchance": "6"
+	},
+	"schwer":{
+		"hpschwierigkeit": "1.5",
+		"atkschwierigkeit": "1.4",
+		"defschwierigkeit": "1.75",
+		"angriffchance": "9"
+	}
+}

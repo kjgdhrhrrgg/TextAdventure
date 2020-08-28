@@ -1,0 +1,70 @@
+.//Allgemein
+Deine Eingabe ist nicht ungültig.
+(j)a oder (n)ein
+
+
+.//Login
+Bitte logge dich ein, um das Spiel zu starten.
+Benutzerdaten nicht erkannt.
+Bitte versuche es nochmal.
+Login erfolgreich!!
+
+
+.//Menu
+Drücke die Enter-Taste, um fortzufahren...
+
+
+.//Auswahl
+Wie willst du in diesem Spiel heißen?
+Wie soll das Monster heißen?
+Willst du den Namen von dem 1. Monster bearbeiten?
+Willst du den Namen von dem 2. Monster bearbeiten?
+Willst du den Namen von dem 3. Monster bearbeiten?
+Welche Schwierigkeitsstufe willst du haben? (Einfach, Normal, Schwer)
+Im diesem Spielmodus sind die Monster, gegen die du im Kampf antreten musst, 
+am schwächsten.
+ähnlich stark wie du.
+sehr stark.
+Du musst eine Schwierigkeitsstufe auswählen.
+
+
+.//Kampf
+Willst du (a)ngreifen oder (f)lüchten?
+Glück gehabt!
+Du bist gestorben.
+Deine Flucht ist gescheitert.
+Du bist entkommen.
+Niemand erleidet schaden.
+Cheat erfolgreich aktiviert. Deine Stats sind verbessert worden.
+
+
+.//Raum
+Willst du in den Bossraum rein?
+Du kannst noch nicht in diesen Raum.
+Hier kannst du nicht entlang.
+
+
+.//Windows
+Diese Funktion ist momentan nur für Windows gültig.
+Wähle eine Farbe aus dieser Liste, um die Schriftfarbe zu ändern:
+Wähle eine Farbe aus dieser Liste, um die Hintergrundfarbe zu ändern:
+
+
+.//Story
+Nach einer langen Suche haben du und dein Team, die Ruine, welches den Eingang zum ewigen Paradies führt, gefunden.
+Nachdem ihr die Ruine eingetreten habt, fandet ihr überall in einer unbekannten Sprache etwas eingeritzt.
+Diese habt ihr fotografiert und während der Erkundung versucht, zu entschlüsseln.
+Als ihr nach einigen Stunden eine Schatzkammer gefunden habt, habt ihr euch zur Rast gelegt, um diese Kammer zu erforschen.
+Während einige aus dem Team die Sachen plünderten, haben du und der andere Teil versucht, die Inschrift zu entschlüssen.
+Einige Zeit später hat jemand aus deinem Team diese Schrift entschlüssen können und anschließend den Inhalt von der Inschrift vorzulesen.
+Diese erzählt von dem Schöpfer kjgdhrhrrgg, welcher der Wächter des Paradies ist. 
+Um diese auch nach seinem Tod zu beschützen, hat er ein Labyrinth gebaut, die von 3 Monstern beschützt werden.
+Diese müssen jedoch getötet werden, da in ihrem Körper ein Schlüssel ist, der sie nicht sterben ließ.
+Und so schlau wie kjgdhrhrrgg war, brauchte man auch diese besagte Schlüssel, um in das ewige Paradies zu gelangen.
+Diese Geschichte hat euch sehr verwirrt, da ihr euch sehr sicher wart, dass ihr euch nicht in einem Labyrinth befindet.
+Während eurer Diskussion, wo nun das Labyrinth sei, wurdert ihr von den Dienern der Monstern angegriffen, worauf ihr alle geflüchet seid.
+Auf deiner Flucht hast du versehentlich eine Falle aktiviert und bist einen ganz langen Schacht hinuntergefallen und wurdest ohnmächtig.
+Nachdem du wieder aufgewacht bist, stellst du fest, dass du dein ganzes Equipment verloren hast und 
+realisierst, dass du dich erst am Anfang dieses Labyrinthes befindest.
+
+

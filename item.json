@@ -1,0 +1,33 @@
+{
+	"Item1": {
+		"name": "Schlüssel der Verdammnis",
+		"info": "Dieser Schlüssel wird benötigt, um den Raum der Verdammnis zu öffnen. ",
+		"hp": "0",
+		"atk": "0",
+		"def": "0",
+		"itemlocation": ""
+	},
+	"Item2": {
+		"name": "Grabschlüssel des toten Königs",
+		"info": "Damit kannst den Raum eintreten, wo der tote König liegt.",
+		"hp": "0",
+		"atk": "0",
+		"def": "0",
+		"itemlocation": ""
+	},
+	"Item3": {
+		"name": "Eden's Schlüssel",
+		"info": "Damit kannst du aus dem Labyrinth entkommen, um in das Paradies zu gelangen.",
+		"hp": "0",
+		"atk": "0",
+		"def": "0",
+		"itemlocation": ""
+	},
+	"Item4": {
+		"name": "kjgdhrhrrgg's verlorenes Schwert",
+		"info": "Dies ist ein heiliges Schwert, welches kjgdhrhrrgg, der Schöpfer dieses Labyrinthes, verloren hat. ",
+		"hp": "100",
+		"atk": "100",
+		"def": "100"
+	}
+}
