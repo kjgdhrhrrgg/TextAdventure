@@ -232,7 +232,7 @@ def Eingangscheck():
                 
         if spieler.position == "oe1r":
 
-            if Schlüssel1.name and Schlüssel2.name in invs:
+            if Schlüssel1.name and Schlüssel2.name in spieler.inventory.values():
 
                 Writing_animation_Line(42)
                 Writing_animation_Line(3)
@@ -261,7 +261,7 @@ def Eingangscheck():
 
         if spieler.position == "ge1l":
 
-            if Schlüssel1.name in invs:
+            if Schlüssel1.name in spieler.inventory.values():
 
                 Writing_animation_Line(42)
                 Writing_animation_Line(3)
@@ -290,7 +290,7 @@ def Eingangscheck():
 
         if spieler.position == "br1u":
 
-            if Schlüssel1.name and Schlüssel2.name and Schlüssel3.name in invs:
+            if Schlüssel1.name and Schlüssel2.name and Schlüssel3.name in spieler.inventory.values():
 
                 Writing_animation_Line(40)
                 Writing_animation_Line(3)
@@ -318,8 +318,11 @@ def Eingangscheck():
                 Position()
 
 def Bewegung():
-    import pdb
-    pdb.set_trace()
+    
+    #set trace#
+    #import pdb#
+    #pdb.set_trace()#
+    
     #check, ob man sich am eingang befindet
     Eingangscheck()
     
@@ -381,7 +384,13 @@ def Position():
     
     Clearscreen()
     Countsystem()
-    Title(titlename + ", " + map[spieler.position]["INFO"])
+    Title(titlename + ", " + map[spieler.position]["INFO"] + "; " + spieler.position + "; " + Schwert.position)
+
+    ###Test
+
+    print(spieler.inventory)
+
+
     if spieler.position == character1.position:
 
         Writing_animation_Print(map[spieler.position]["BESCHREIBUNG"])
