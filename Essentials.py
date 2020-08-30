@@ -9,10 +9,11 @@ import codecs
 import uuid 
 import sys
 import os
+import getpass
 
 
 usernumber = "Unit" + str(int((float(uuid.uuid4().int)*10/float(uuid.uuid4().int))+1))
-userpw = "0"
+userpw = int((uuid.uuid4().int + 2 )/ uuid.uuid4().int)
 system = platform.system()
 fcl = {"a": "Hellgrün", "b": "Helltürkis", "c": "Hellrot", "d": "Helllila", "e": "Hellgelb", "f": "Weiß"}
 bcl = {0:"Schwarz",1: "Blau", 2: "Grün", 3: "Türkis", 4: "Rot", 5: "Lila", 6: "Gelb", 7: "Hellgrau", 8: "Grau", 9: "Hellblau"}
@@ -36,7 +37,7 @@ def Writing_animation_Line(l):
                     
                     sys.stdout.write(char)
                     sys.stdout.flush()                                   
-                    sleep(uniform(0,0.05))                             
+                    sleep(uniform(0,0.05))                              
 
 
 def Writing_animation_Print(text):
@@ -70,24 +71,6 @@ def Title(title):
         os.system("printf '\e[8;30;112t'")
 
 
-def Login():
-    
-    Title("Benutzernummer: " + str(usernumber) + "; Benutzerpasswort: " + str(userpw))
-    Clearscreen()
-    Writing_animation_Line(7)
-    login = input("Benutzernummer: ")
-    passwd = input("Passwort: ")
-    
-    while usernumber != login or str(userpw) != passwd:
-        
-        Clearscreen()
-        Writing_animation_Line(8)
-        Writing_animation_Line(9)
-        login = input("Benutzernummer: ")
-        passwd = input("Passwort: ")    
-    
-    Writing_animation_Line(10)
-        
 def ASCII_pic(pic):
 
     Clearscreen()
@@ -127,3 +110,23 @@ def Menu_Screen():
     Title("Launcher")
     ASCII_pic("logo.txt")
     
+
+def Login():
+    Title("Benutzernummer: " + str(usernumber) + "; Benutzerpasswort: " + str(userpw))
+    Clearscreen()
+    Writing_animation_Line(7)
+    login = input("Benutzernummer: ")
+    passwd = getpass.getpass(prompt="Passwort: ")
+    
+    while usernumber != login or str(userpw) != passwd:
+        
+        Clearscreen()
+        Writing_animation_Line(8)
+        Writing_animation_Line(9)
+        Clearscreen()
+        login = input("Benutzernummer: ")
+        passwd = getpass.getpass(prompt="Passwort: ")   
+    
+    Writing_animation_Line(10)
+
+
