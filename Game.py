@@ -192,141 +192,26 @@ def Add_Item(new_Item):
 ######################################## BEWEGUNG ###########################################
 
 
-def Ziel(np):
-    
-    spieler.position = np 
-    Position()
+#Bewegung
 
-def Zielcheck(np):
-
-    #Check, ob man hier entlanglaufen kann
-    if np == "":
-        
-        Writing_animation_Line(44)
-        Bewegung()     
-
-def Eingangscheck():
-
-    if spieler.position in eg:
-
-        if spieler.position == "pe1u":
-
-            Writing_animation_Line(42)
-            Writing_animation_Line(3)
-            eabfrage1 = input(">").lower()
-
-            if eabfrage1 == "j":
-            
-                spieler.position = map[spieler.position]["OBEN"]
-                Position()
-
-            elif eabfrage1 == "n":
-
-                spieler.position = map[spieler.position]["UNTEN"]
-                Position()
-                
-            else:
-                
-                Writing_animation_Line(2)
-                Eingangscheck()
-                
-        if spieler.position == "oe1r":
-
-            if Schlüssel1.name and Schlüssel2.name in spieler.inventory.values():
-
-                Writing_animation_Line(42)
-                Writing_animation_Line(3)
-                eabfrage2 = input(">").lower()
-
-                if eabfrage2 == "j":
-            
-                    spieler.position = map[spieler.position]["OBEN"]
-                    Position()
-
-                elif eabfrage2 == "n":
-
-                    spieler.position = map[spieler.position]["UNTEN"]
-                    Position()
-
-                else:
-                
-                    Writing_animation_Line(2)
-                    Eingangscheck()
-                
-            else:
-
-                Writing_animation_Line(43)
-                spieler.position = map[spieler.position]["UNTEN"]
-                Position()
-
-        if spieler.position == "ge1l":
-
-            if Schlüssel1.name in spieler.inventory.values():
-
-                Writing_animation_Line(42)
-                Writing_animation_Line(3)
-                eabfrage3 = input(">").lower()
-
-                if eabfrage3 == "j":
-            
-                    spieler.position = map[spieler.position]["OBEN"]
-                    Position()
-
-                elif eabfrage3 == "n":
-
-                    spieler.position = map[spieler.position]["UNTEN"]
-                    Position()
-                
-                else:
-                
-                    Writing_animation_Line(2)
-                    Eingangscheck()
-
-            else:
-
-                Writing_animation_Line(43)
-                spieler.position = map[spieler.position]["UNTEN"]
-                Position()
-
-        if spieler.position == "br1u":
-
-            if Schlüssel1.name and Schlüssel2.name and Schlüssel3.name in spieler.inventory.values():
-
-                Writing_animation_Line(40)
-                Writing_animation_Line(3)
-                eabfrage4 = input(">").lower()
-
-                if eabfrage4 == "j":
-            
-                    spieler.position = map[spieler.position]["OBEN"]
-                    Position()
-
-                elif eabfrage4 == "n":
-
-                    spieler.position = map[spieler.position]["UNTEN"]
-                    Position()
-                
-                else:
-                
-                    Writing_animation_Line(2)
-                    Eingangscheck()
-
-            else:
-
-                Writing_animation_Line(43)
-                spieler.position = map[spieler.position]["UNTEN"]
-                Position()
 
 def Bewegung():
+
     
-    #set trace#
-    #import pdb#
-    #pdb.set_trace()#
+    Clearscreen()
+    Countsystem()
+    Title(titlename + ", " + str(map[spieler.position]["INFO"]) + "; " + str(spieler.position) + "; " + str(Schwert.position))
+
+    ###Test
+
+    print(spieler.inventory)
     
-    #check, ob man sich am eingang befindet
+    
+    Positioncheck()
     Eingangscheck()
+
+    #Check, in welcher Richtung man laufen kann 
     
-    #check, in welche richtung man laufen kann (keine eigene funktion, wegen den variablen)  
     v = "(v)orne \n"
     r = "(r)echts \n"
     l = "(l)inks \n"
@@ -346,51 +231,53 @@ def Bewegung():
     if map[spieler.position]["UNTEN"] == "":
     
         h = ""
-    
+
+
     #Bewegung beginnt hier:
     Writing_animation_Print("Wohin möchtest du hin? \n" + v + r + h + l)
     frage = input(">").lower()
     
     if frage == "v":
     
-        np = map[spieler.position]["OBEN"]
-        Zielcheck(np)
-        Ziel(np)
+        spieler.position = map[spieler.position]["OBEN"]
+        Zielcheck()
+        Bewegung()
+
     
     elif frage == "r":
     
-        np = map[spieler.position]["RECHTS"]
-        Zielcheck(np)
-        Ziel(np)
+        spieler.position = map[spieler.position]["RECHTS"]
+        Zielcheck()
+        Bewegung()
+
     
     elif frage == "h":
         
-        np = map[spieler.position]["UNTEN"] 
-        Zielcheck(np)
-        Ziel(np)
+        spieler.position = map[spieler.position]["UNTEN"] 
+        Zielcheck()
+        Bewegung()
+
     
     elif frage == "l":
     
-        np = map[spieler.position]["LINKS"]    
-        Zielcheck(np)
-        Ziel(np)
+        spieler.position = map[spieler.position]["LINKS"]  
+        Zielcheck()
+        Bewegung()  
 
     else:
         
         Writing_animation_Line(2)
         Bewegung()
 
-def Position():
+
+
+#Checks
+
+
+def Positioncheck():
+
     
-    Clearscreen()
-    Countsystem()
-    Title(titlename + ", " + map[spieler.position]["INFO"] + "; " + spieler.position + "; " + Schwert.position)
-
-    ###Test
-
-    print(spieler.inventory)
-
-
+    
     if spieler.position == character1.position:
 
         Writing_animation_Print(map[spieler.position]["BESCHREIBUNG"])
@@ -417,12 +304,122 @@ def Position():
 
         new_Item = Schwert
         Add_Item(new_Item)
-        Bewegung()
-    
-    else:
-        
-        Bewegung()
-    
+
+def Eingangscheck():
+
+    if spieler.position in eg:
+
+        if spieler.position == "pe1u":
+
+            Writing_animation_Line(42)
+            Writing_animation_Line(3)
+            eabfrage1 = input(">").lower()
+
+            if eabfrage1 == "j":
+
+                spieler.position = map[spieler.position]["OBEN"]
+
+            elif eabfrage1 == "n":
+
+                spieler.position = map[spieler.position]["UNTEN"]
+
+            else:
+
+                Writing_animation_Line(2)
+                Eingangscheck()
+
+        if spieler.position == "oe1r":
+
+            if Schlüssel1.name and Schlüssel2.name in spieler.inventory.values():
+
+                Writing_animation_Line(42)
+                Writing_animation_Line(3)
+                eabfrage2 = input(">").lower()
+
+                if eabfrage2 == "j":
+            
+                    spieler.position = map[spieler.position]["OBEN"]
+                    
+
+                elif eabfrage2 == "n":
+
+                    spieler.position = map[spieler.position]["UNTEN"]
+                    
+
+                else:
+                
+                    Writing_animation_Line(2)
+                    Eingangscheck()
+                
+            else:
+
+                Writing_animation_Line(43)
+                spieler.position = map[spieler.position]["UNTEN"]
+                
+        if spieler.position == "ge1l":
+
+            if Schlüssel1.name in spieler.inventory.values():
+
+                Writing_animation_Line(42)
+                Writing_animation_Line(3)
+                eabfrage3 = input(">").lower()
+
+                if eabfrage3 == "j":
+            
+                    spieler.position = map[spieler.position]["OBEN"]
+                    
+
+                elif eabfrage3 == "n":
+
+                    spieler.position = map[spieler.position]["UNTEN"]
+                    
+                
+                else:
+                
+                    Writing_animation_Line(2)
+                    Eingangscheck()
+
+            else:
+
+                Writing_animation_Line(43)
+                spieler.position = map[spieler.position]["UNTEN"]
+                
+        if spieler.position == "br1u":
+
+            if Schlüssel1.name and Schlüssel2.name and Schlüssel3.name in spieler.inventory.values():
+
+                Writing_animation_Line(40)
+                Writing_animation_Line(3)
+                eabfrage4 = input(">").lower()
+
+                if eabfrage4 == "j":
+            
+                    spieler.position = map[spieler.position]["OBEN"]
+                    
+
+                elif eabfrage4 == "n":
+
+                    spieler.position = map[spieler.position]["UNTEN"]
+                    
+                
+                else:
+                
+                    Writing_animation_Line(2)
+                    Eingangscheck()
+
+            else:
+
+                Writing_animation_Line(43)
+                spieler.position = map[spieler.position]["UNTEN"]
+                
+
+def Zielcheck():
+
+    if spieler.position == "": 
+
+        Writing_animation_Line(44)
+        Bewegung()  
+
 
 ######################################## KAMPF ##################################################
 
@@ -444,7 +441,7 @@ def HP_check(gegner):
             Get_Item(gegner)
             gegner.position = ""
             spieler.position = map[spieler.position]["UNTEN"]
-            Position()
+            Bewegung()
 
 def Loop(gegner):
     
@@ -489,7 +486,7 @@ def Loop(gegner):
 
         Writing_animation_Line(36)
         spieler.position = map[spieler.position]["UNTEN"]
-        Position()
+        Bewegung()
         
     elif auswahl == str(userpw):
 
@@ -830,7 +827,7 @@ def Story():
 def Start():
     
     Title(titlename)
-    Position()
+    Bewegung()
 
 
 def Loading():
